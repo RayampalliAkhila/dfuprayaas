@@ -1,0 +1,15 @@
+numpy
+pandas
+tensorflow==2.15.0
+seaborn
+matplotlib
+tqdm
+plotly
+torch
+torchvision
+streamlit
+fastapi
+opencv-python
+pymongo
+
+
